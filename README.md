@@ -11,6 +11,8 @@ Prérequisites :
 
 
 
+
+
 Plugins List : 
 
 - vundle : it's a plugins manager for vim (check .vimrc config) https://github.com/VundleVim/Vundle.vim.git
