@@ -13,7 +13,7 @@ Prérequisites : rubygems / puppet-lint for syntastic plugin
  
 How to install : 
 ```
-git clone https://github.com/meries/puppet-vim ~/.
+git clone https://github.com/meries/puppet-vim && cd puppet-vim && cp -r .vim* ~/.
 ```
 
 
