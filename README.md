@@ -4,7 +4,7 @@
 Description : 
 This is my vimrc configuration and my plugins collection to make the perfect IDE for puppet workers ;)
 
-Prérequisites : rubygems / puppet-lint
+Prérequisites : rubygems / puppet-lint for syntastic plugin
 
 
 ```
