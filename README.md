@@ -11,10 +11,8 @@ Plugins List :
 - nerdtree : vim file explorer see wiki for more informations
 - powerline : statusline plugin for vim, and provides statuslines and prompts for several other applications
 - vim-puppet : syntax highlight for puppet code
-- syntastic : syntastic is a syntax checking plugin for Vim
-- tlib_vim
-- vim-addon-mw-utils
-- vim-airline-themes
-- vim-airline
-- vim-snipmate
+- syntastic : syntastic is a syntax checking plugin for vim
+- vim-airline : status/tabline for vim that's light as air.
+- vim-airline-themes : themes for vim-airline plugin
+- vim-snipmate :
 - vim-snippets 
