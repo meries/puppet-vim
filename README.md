@@ -10,6 +10,9 @@ Prérequisites :
 - puppet-lint
 
 
+```
+#> gem install puppet-lint
+```
 
 
 
