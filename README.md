@@ -4,6 +4,13 @@
 Description : 
 This is my vimrc configuration and my plugins collection to make the perfect IDE for puppet workers ;)
 
+Prérequisites : 
+- vim
+- rubygems
+- puppet-lint
+
+
+
 Plugins List : 
 
 - vundle : it's a plugins manager for vim (check .vimrc config) https://github.com/VundleVim/Vundle.vim.git
