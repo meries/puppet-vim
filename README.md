@@ -6,7 +6,7 @@ This is my vimrc configuration and my plugins collection to make the perfect IDE
 
 Plugins List : 
 
-- vundle : it's a plugins manager for vim (check .vimrc config)
+- vundle : it's a plugins manager for vim (check .vimrc config) https://github.com/VundleVim/Vundle.vim.git
 - deoplete : this plugin work with neovim in order to add vim autocompletion
 - nerdtree : vim file explorer see wiki for more informations
 - powerline : statusline plugin for vim, and provides statuslines and prompts for several other applications
