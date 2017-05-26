@@ -14,5 +14,5 @@ Plugins List :
 - syntastic : syntastic is a syntax checking plugin for vim
 - vim-airline : status/tabline for vim that's light as air.
 - vim-airline-themes : themes for vim-airline plugin
-- vim-snipmate / vim-snippets : snip to provide support for textual snippets, similar to TextMate or other vim plugins like ultisnips.
+- vim-snipmate / vim-snippets : snip to provide support for textual snippets, similar to textmate or other vim plugins like ultisnips.
  
