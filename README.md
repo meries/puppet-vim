@@ -29,7 +29,7 @@ rm -rf puppet-vim
 
 ## Snippets is awesome
 ![animated](https://cloud.githubusercontent.com/assets/26363773/26524418/0565a708-4332-11e7-8c6e-ba5b7fbfeda3.gif)
-** just write the name of puppet ressource + tab **
+**just write the name of puppet ressource + tab**
 
 
 Plugins List : 
