@@ -28,7 +28,7 @@ rm -rf puppet-vim
  **Autocompletion**
 ![autocompletion](https://cloud.githubusercontent.com/assets/26363773/26524416/029e2950-4332-11e7-87d9-e137248c8ae8.png)
 
-**Snipmate is awesome !***
+**Snipmate is awesome !**
 ![animated](https://cloud.githubusercontent.com/assets/26363773/26524418/0565a708-4332-11e7-8c6e-ba5b7fbfeda3.gif)
  
 Plugins List : 
