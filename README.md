@@ -20,7 +20,7 @@ cd -
 rm -rf puppet-vim
 ```
 ## How it work : 
-
+**vimrc config**
 ![vimrc](https://cloud.githubusercontent.com/assets/26363773/26524382/4a77f1e4-4331-11e7-85e3-acd0c60090a2.png)
  
 Plugins List : 
