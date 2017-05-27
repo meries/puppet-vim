@@ -28,9 +28,10 @@ rm -rf puppet-vim
 
 **Snipmate is awesome !**
 ![animated](https://cloud.githubusercontent.com/assets/26363773/26524418/0565a708-4332-11e7-8c6e-ba5b7fbfeda3.gif)
-===
-Plugins List : 
 
+
+Plugins List : 
+---
 - vundle : it's a plugins manager for vim (check .vimrc config) https://github.com/VundleVim/Vundle.vim.git
 - deoplete : this plugin work with neovim in order to add vim autocompletion https://github.com/Shougo/deoplete.nvim
 - nerdtree : vim file explorer see wiki for more informations https://github.com/scrooloose/nerdtree
