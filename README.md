@@ -32,7 +32,7 @@ rm -rf puppet-vim
 ![animated](https://cloud.githubusercontent.com/assets/26363773/26524418/0565a708-4332-11e7-8c6e-ba5b7fbfeda3.gif)
 
 
-
+---
 Plugins List : 
 ---
 - vundle : it's a plugins manager for vim (check .vimrc config) https://github.com/VundleVim/Vundle.vim.git
