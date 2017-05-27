@@ -1,7 +1,7 @@
 # puppet-vim
 
 ## Introduction :
-This is a vimrc configuration and a plugins collection to make the perfect IDE for puppet workers ;)
+puppet-vim is a vimrc configuration and a plugins collection to make the perfect IDE for puppet workers ;)
 
 Prérequisites : 
  * Rubygems / puppet-lint for syntastic plugin
