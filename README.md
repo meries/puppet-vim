@@ -3,7 +3,7 @@
 ## Introduction :
 puppet-vim is a vimrc configuration and a plugins collection to make the perfect IDE for puppet workers ;)
 
-Prérequisites : 
+#### Prérequisites : 
  * Rubygems / puppet-lint for syntastic plugin
  * Python3 for deoplete and neovim plugin
 
