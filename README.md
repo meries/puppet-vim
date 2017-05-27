@@ -4,13 +4,9 @@
 This is my vimrc configuration and my plugins collection to make the perfect IDE for puppet workers ;)
 
 Prérequisites : 
- * rubygems / puppet-lint for syntastic plugin
+ * Rubygems / puppet-lint for syntastic plugin
  * Python3 for deoplete and neovim plugin
 
-```
-#> gem install puppet-lint
-```
- 
 ## Installation : 
 ```
 cd ~
