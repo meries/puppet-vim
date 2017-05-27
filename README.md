@@ -16,9 +16,9 @@ cp -r .vim* ~/.
 cd -
 rm -rf puppet-vim
 ```
-===
+
 ## How it works : 
-vimrc config**
+**vimrc config**
 ![vimrc](https://cloud.githubusercontent.com/assets/26363773/26524382/4a77f1e4-4331-11e7-85e3-acd0c60090a2.png)
 
 **Syntax checking**
@@ -28,7 +28,7 @@ vimrc config**
 
 **Snipmate is awesome !**
 ![animated](https://cloud.githubusercontent.com/assets/26363773/26524418/0565a708-4332-11e7-8c6e-ba5b7fbfeda3.gif)
-=== 
+===
 Plugins List : 
 
 - vundle : it's a plugins manager for vim (check .vimrc config) https://github.com/VundleVim/Vundle.vim.git
