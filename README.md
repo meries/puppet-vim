@@ -1,17 +1,17 @@
 # puppet-vim
-#
----
-Introduction :
+========
+
+## Introduction :
 This is my vimrc configuration and my plugins collection to make the perfect IDE for puppet workers ;)
 
-Prérequisites : rubygems / puppet-lint for syntastic plugin
+**Note Prérequisites : rubygems / puppet-lint for syntastic plugin**
 
 
 ```
 #> gem install puppet-lint
 ```
  
-How to install : 
+## Installation : 
 ```
 cd ~
 git clone https://github.com/meries/puppet-vim
@@ -20,7 +20,7 @@ cp -r .vim* ~/.
 cd -
 rm -rf puppet-vim
 ```
-How it work : 
+## How it work : 
 
 
  
