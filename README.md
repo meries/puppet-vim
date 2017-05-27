@@ -17,18 +17,18 @@ cd -
 rm -rf puppet-vim
 ```
 
-## How it works : 
-**vimrc config**
+## vimrc config
 ![vimrc](https://cloud.githubusercontent.com/assets/26363773/26524382/4a77f1e4-4331-11e7-85e3-acd0c60090a2.png)
-
-**Syntax checking**
+---
+## Syntax checking
 ![syntastic](https://cloud.githubusercontent.com/assets/26363773/26524403/d895c866-4331-11e7-828d-a2e89ca43c02.png)
- **Autocompletion**
+ ## Autocompletion
 ![autocompletion](https://cloud.githubusercontent.com/assets/26363773/26524416/029e2950-4332-11e7-87d9-e137248c8ae8.png)
+---
 
-**Snipmate is awesome !**
+## Snipmate is awesome
 ![animated](https://cloud.githubusercontent.com/assets/26363773/26524418/0565a708-4332-11e7-8c6e-ba5b7fbfeda3.gif)
-
+---
 
 Plugins List : 
 ---
